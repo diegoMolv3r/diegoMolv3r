@@ -9,7 +9,6 @@ modern, efficient, and user-focused web solutions. <br>
 
 🚀I seek to continue growing professionally and contribute to projects that allow me to apply what I have learned and continue challenging myself. <br><br>
 📚 I'm always learning something new and love sharing knowledge and collaborating with other developers. <br><br>
-
 🌱 I’m currently learning...
   - PHP
   - AJAXX
