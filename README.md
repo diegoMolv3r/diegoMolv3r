@@ -15,7 +15,7 @@ modern, efficient, and user-focused web solutions. <br>
   - AJAXX
   - SPRING MVC
     
-📫 Contacto <br>
+📫 Contact Me! <br>
 Email: molverdiego@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/diego-molver
 
@@ -32,7 +32,7 @@ LinkedIn: https://www.linkedin.com/in/diego-molver
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
  
-<h2 style="margin-bottom=0">Tools</h2> 
+<h2 style="margin-bottom=0">Other Tools</h2> 
  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
