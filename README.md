@@ -15,10 +15,6 @@ modern, efficient, and user-focused web solutions. <br>
   - AJAXX
   - SPRING MVC
     
-📫 Contact Me! <br>
-Email: molverdiego@gmail.com <br>
-LinkedIn: https://www.linkedin.com/in/diego-molver
-
 <h2 style="margin-bottom=0">My Skills Include</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
