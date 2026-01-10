@@ -11,8 +11,8 @@ modern, efficient, and user-focused web solutions. <br>
 📚 I'm always learning something new and love sharing knowledge and collaborating with other developers. <br><br>
 🌱 I’m currently learning...
   - .NET
-  - NODE.JS
   - ANGULAR
+  - CYBERSECURITY 
     
 <h2 style="margin-bottom=0">My Skills Include</h2>
 
