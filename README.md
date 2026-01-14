@@ -1,11 +1,19 @@
 <h1 align="left"><b>Hi, I'm Diego Molver</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center">
+  <a href="[TU_LINK_DE_LINKEDIN_AQUI](https://www.linkedin.com/in/diego-molver/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+</p>
+
+<br>
+
 ***About me***
 
 <img  align=right src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" alt="coding-gif">
 
-I am a Web Development student, currently pursuing a technical degree. After completing it, i plan to continue my academic journey with a Bachelor's degree in Technology Management. I am expanding my skills in both front-end and back-end development to build 
-modern, efficient, and user-focused web solutions. <br>
+I am a Web Development student currently pursuing a technical degree, with plans to advance into a Bachelor's in Technology Management. I am expanding my skills in back-end development with a strong focus on cybersecurity, aiming to build modern, efficient, and secure web solutions. <br>
 
 🚀I seek to continue growing professionally and contribute to projects that allow me to apply what I have learned and continue challenging myself. <br><br>
 📚 I'm always learning something new and love sharing knowledge and collaborating with other developers. <br><br>
